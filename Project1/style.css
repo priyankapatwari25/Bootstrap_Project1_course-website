@@ -1,0 +1,13 @@
+.navbar-dark .navbar-nav .nav-link{
+    font-size: 18px !important;
+    font-weight: bold;
+}
+
+.carousel-inner img{
+    height: 500px !important;
+    opacity: 1.0;
+}
+
+#tag h1{
+    font-weight: bold;
+}
